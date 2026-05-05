@@ -1,5 +1,5 @@
 # lq
-LQ: a very basic Lattice Quantization library.
+Lattice Quantization library.
 
 This library implements lattice quantization algorithms for lattices Zn, An, Dn, En and their duals.
 Dimensions up to 8 are supported. This includes best known lattices for minimizing covering radius:
