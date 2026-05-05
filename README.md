@@ -33,9 +33,9 @@ Points outside the granular region are clipped to the nearest point within it, w
 The overload region is unbounded.
 
 Main references:
-
-- [1] J.H. Conway and N.J.A. Sloane, "Fast quantizing and decoding algorithms for lattice quantizers and codes," IEEE Trans. Inform. Theory, vol. IT-28, no. 2, pp. 227-232, March 1982.
-- [2] J.H. Conway and N.J.A. Sloane, "A fast encoding method for lattice codes and quantizers," IEEE Trans. Inform. Theory, vol. IT-29, no. 6, pp. 820-824, November 1983.
-- [3] K. Takizawa, H. Yagi and T. Kawabata, "Closest point algorithms with lp norm for root lattices," 2010 IEEE International Symposium on Information Theory, Austin, TX, USA, 2010, pp. 1042-1046.
-- [4] J.H. Conway and N.J.A. Sloane, "Sphere packings, lattices and groups," Vol. 290, Springer, 2013.
-
+<ul>
+<li>[1] J.H. Conway and N.J.A. Sloane, "Fast quantizing and decoding algorithms for lattice quantizers and codes," IEEE Trans. Inform. Theory, vol. IT-28, no. 2, pp. 227-232, March 1982.</li> 
+<li>[2] J.H. Conway and N.J.A. Sloane, "A fast encoding method for lattice codes and quantizers," IEEE Trans. Inform. Theory, vol. IT-29, no. 6, pp. 820-824, November 1983.</li> 
+<li>[3] K. Takizawa, H. Yagi and T. Kawabata, "Closest point algorithms with lp norm for root lattices," 2010 IEEE International Symposium on Information Theory, Austin, TX, USA, 2010, pp. 1042-1046.</li>
+<li>[4] J.H. Conway and N.J.A. Sloane, "Sphere packings, lattices and groups," Vol. 290, Springer, 2013.</li> 
+</ul> 
