@@ -15,7 +15,7 @@
  *      5	A5*	        A5 dual
  *      6	A6*	        A6 dual
  *      7	A7*	        A7 dual
- *      8	A8*	        A8 dual
+ *      8	E8	        Gossett lattice
  *
  *  and best lattices for minimizing quantization error:
  *
