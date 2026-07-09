@@ -11,7 +11,7 @@ Dimensions up to 8 are supported. This includes best known lattices for minimizi
      5	A5*	        A5 dual
      6	A6*	        A6 dual
      7	A7*	        A7 dual
-     8	E8	        Gossett lattice
+     8	A8*	        A8 dual
 
 and best lattices for minimizing quantization error:
 
